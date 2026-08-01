@@ -31,8 +31,17 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/abdulazeem8630/leetcode/tree/master/0069-sqrtx) |
+| [0258-add-digits](https://github.com/abdulazeem8630/leetcode/tree/master/0258-add-digits) |
 ## Binary Search
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/abdulazeem8630/leetcode/tree/master/0069-sqrtx) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/abdulazeem8630/leetcode/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/abdulazeem8630/leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
