@@ -1,24 +1,16 @@
 class Solution {
     public boolean isPalindrome(int x) {
-        int copy1 = x;
-        int copy2 = x;
-        if(copy1<0){
+        int original = x;
+        if(x<0){
             return false;
         }
-        int count = 0;
-        while(copy1!=0){
-            count++;
-            copy1/=10;
+        int reverse = 0;
+        while(x!=0){
+            int digit = x % 10;
+            reverse = (reverse*10) + digit;
+            x /= 10;
         }
-        int finalAns = 0;
-        while(copy2!=0){
-            int digit = copy2 % 10;
-            int power = digit * (int)(Math.pow(10,count-1));
-            finalAns += power;
-            count--;
-            copy2 /= 10;
-        }
-        if(x==finalAns){
+        if(original==reverse){
             return true;
         }else{
             return false;
