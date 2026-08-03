@@ -3,11 +3,11 @@ class Solution {
         int n = nums.length;
         k = k % n;
         
-        // 1. पूरे एरे को रिवर्स करें
+        // Step 1: Reverse the entire array
         reverse(nums, 0, n - 1);
-        // 2. पहले k एलिमेंट्स को रिवर्स करें
+        // Step 2: Reverse the first k elements
         reverse(nums, 0, k - 1);
-        // 3. बाकी बचे एलिमेंट्स को रिवर्स करें
+        // Step 3: Reverse the remaining n - k elements
         reverse(nums, k, n - 1);
     }
 
