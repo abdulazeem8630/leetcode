@@ -10,6 +10,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/abdulazeem8630/leetcode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/abdulazeem8630/leetcode/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/abdulazeem8630/leetcode/tree/master/0219-contains-duplicate-ii) |
 ## Divide and Conquer
@@ -33,6 +34,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/abdulazeem8630/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/abdulazeem8630/leetcode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/abdulazeem8630/leetcode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/abdulazeem8630/leetcode/tree/master/0029-divide-two-integers) |
 | [0069-sqrtx](https://github.com/abdulazeem8630/leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/abdulazeem8630/leetcode/tree/master/0189-rotate-array) |
@@ -63,4 +65,8 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/abdulazeem8630/leetcode/tree/master/0231-power-of-two) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/abdulazeem8630/leetcode/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
