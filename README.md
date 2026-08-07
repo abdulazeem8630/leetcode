@@ -33,6 +33,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/abdulazeem8630/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/abdulazeem8630/leetcode/tree/master/0009-palindrome-number) |
+| [0029-divide-two-integers](https://github.com/abdulazeem8630/leetcode/tree/master/0029-divide-two-integers) |
 | [0069-sqrtx](https://github.com/abdulazeem8630/leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/abdulazeem8630/leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/abdulazeem8630/leetcode/tree/master/0231-power-of-two) |
@@ -56,6 +57,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/abdulazeem8630/leetcode/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/abdulazeem8630/leetcode/tree/master/0231-power-of-two) |
 ## Recursion
 |  |
