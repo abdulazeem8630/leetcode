@@ -10,6 +10,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/abdulazeem8630/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/abdulazeem8630/leetcode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/abdulazeem8630/leetcode/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/abdulazeem8630/leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -34,6 +35,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/abdulazeem8630/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/abdulazeem8630/leetcode/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/abdulazeem8630/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/abdulazeem8630/leetcode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/abdulazeem8630/leetcode/tree/master/0029-divide-two-integers) |
 | [0069-sqrtx](https://github.com/abdulazeem8630/leetcode/tree/master/0069-sqrtx) |
@@ -68,5 +70,6 @@
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/abdulazeem8630/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/abdulazeem8630/leetcode/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
