@@ -38,6 +38,7 @@
 | [0012-integer-to-roman](https://github.com/abdulazeem8630/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/abdulazeem8630/leetcode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/abdulazeem8630/leetcode/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/abdulazeem8630/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/abdulazeem8630/leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/abdulazeem8630/leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/abdulazeem8630/leetcode/tree/master/0231-power-of-two) |
@@ -49,6 +50,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/abdulazeem8630/leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/abdulazeem8630/leetcode/tree/master/0258-add-digits) |
 ## Number Theory
 |  |
@@ -62,6 +64,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/abdulazeem8630/leetcode/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/abdulazeem8630/leetcode/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/abdulazeem8630/leetcode/tree/master/0231-power-of-two) |
 ## Recursion
 |  |
@@ -72,4 +75,5 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/abdulazeem8630/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/abdulazeem8630/leetcode/tree/master/0013-roman-to-integer) |
+| [0067-add-binary](https://github.com/abdulazeem8630/leetcode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
