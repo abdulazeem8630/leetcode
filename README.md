@@ -41,6 +41,7 @@
 | [0029-divide-two-integers](https://github.com/abdulazeem8630/leetcode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/abdulazeem8630/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/abdulazeem8630/leetcode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/abdulazeem8630/leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/abdulazeem8630/leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/abdulazeem8630/leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/abdulazeem8630/leetcode/tree/master/0258-add-digits) |
@@ -82,4 +83,12 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/abdulazeem8630/leetcode/tree/master/0002-add-two-numbers) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/abdulazeem8630/leetcode/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/abdulazeem8630/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
