@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/abdulazeem8630/leetcode/tree/master/0048-rotate-image) |
 | [0169-majority-element](https://github.com/abdulazeem8630/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/abdulazeem8630/leetcode/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/abdulazeem8630/leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -40,6 +41,7 @@
 | [0013-roman-to-integer](https://github.com/abdulazeem8630/leetcode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/abdulazeem8630/leetcode/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/abdulazeem8630/leetcode/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/abdulazeem8630/leetcode/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/abdulazeem8630/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/abdulazeem8630/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/abdulazeem8630/leetcode/tree/master/0070-climbing-stairs) |
@@ -96,4 +98,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/abdulazeem8630/leetcode/tree/master/0070-climbing-stairs) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/abdulazeem8630/leetcode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
