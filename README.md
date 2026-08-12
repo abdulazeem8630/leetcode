@@ -42,6 +42,7 @@
 | [0029-divide-two-integers](https://github.com/abdulazeem8630/leetcode/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/abdulazeem8630/leetcode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/abdulazeem8630/leetcode/tree/master/0048-rotate-image) |
+| [0060-permutation-sequence](https://github.com/abdulazeem8630/leetcode/tree/master/0060-permutation-sequence) |
 | [0067-add-binary](https://github.com/abdulazeem8630/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/abdulazeem8630/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/abdulazeem8630/leetcode/tree/master/0070-climbing-stairs) |
@@ -78,6 +79,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/abdulazeem8630/leetcode/tree/master/0002-add-two-numbers) |
+| [0060-permutation-sequence](https://github.com/abdulazeem8630/leetcode/tree/master/0060-permutation-sequence) |
 | [0231-power-of-two](https://github.com/abdulazeem8630/leetcode/tree/master/0231-power-of-two) |
 ## String
 |  |
