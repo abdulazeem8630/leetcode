@@ -47,6 +47,7 @@
 | [0067-add-binary](https://github.com/abdulazeem8630/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/abdulazeem8630/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/abdulazeem8630/leetcode/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/abdulazeem8630/leetcode/tree/master/0089-gray-code) |
 | [0168-excel-sheet-column-title](https://github.com/abdulazeem8630/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/abdulazeem8630/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/abdulazeem8630/leetcode/tree/master/0189-rotate-array) |
@@ -75,6 +76,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/abdulazeem8630/leetcode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/abdulazeem8630/leetcode/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/abdulazeem8630/leetcode/tree/master/0089-gray-code) |
 | [0231-power-of-two](https://github.com/abdulazeem8630/leetcode/tree/master/0231-power-of-two) |
 ## Recursion
 |  |
@@ -112,4 +114,8 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/abdulazeem8630/leetcode/tree/master/0062-unique-paths) |
+## Backtracking
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/abdulazeem8630/leetcode/tree/master/0089-gray-code) |
 <!---LeetCode Topics End-->
