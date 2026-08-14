@@ -48,6 +48,7 @@
 | [0069-sqrtx](https://github.com/abdulazeem8630/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/abdulazeem8630/leetcode/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/abdulazeem8630/leetcode/tree/master/0089-gray-code) |
+| [0096-unique-binary-search-trees](https://github.com/abdulazeem8630/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0168-excel-sheet-column-title](https://github.com/abdulazeem8630/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/abdulazeem8630/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/abdulazeem8630/leetcode/tree/master/0189-rotate-array) |
@@ -102,6 +103,7 @@
 | ------- |
 | [0062-unique-paths](https://github.com/abdulazeem8630/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/abdulazeem8630/leetcode/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/abdulazeem8630/leetcode/tree/master/0096-unique-binary-search-trees) |
 ## Memoization
 |  |
 | ------- |
@@ -118,4 +120,16 @@
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/abdulazeem8630/leetcode/tree/master/0089-gray-code) |
+## Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/abdulazeem8630/leetcode/tree/master/0096-unique-binary-search-trees) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/abdulazeem8630/leetcode/tree/master/0096-unique-binary-search-trees) |
+## Binary Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/abdulazeem8630/leetcode/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
