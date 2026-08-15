@@ -6,6 +6,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/abdulazeem8630/leetcode/tree/master/0048-rotate-image) |
 | [0149-max-points-on-a-line](https://github.com/abdulazeem8630/leetcode/tree/master/0149-max-points-on-a-line) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/abdulazeem8630/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/abdulazeem8630/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/abdulazeem8630/leetcode/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/abdulazeem8630/leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -52,6 +53,7 @@
 | [0089-gray-code](https://github.com/abdulazeem8630/leetcode/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/abdulazeem8630/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0149-max-points-on-a-line](https://github.com/abdulazeem8630/leetcode/tree/master/0149-max-points-on-a-line) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/abdulazeem8630/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/abdulazeem8630/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/abdulazeem8630/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/abdulazeem8630/leetcode/tree/master/0189-rotate-array) |
@@ -147,4 +149,8 @@
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/abdulazeem8630/leetcode/tree/master/0149-max-points-on-a-line) |
+## Stack
+|  |
+| ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/abdulazeem8630/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 <!---LeetCode Topics End-->
