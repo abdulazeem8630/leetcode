@@ -65,6 +65,7 @@
 | [0204-count-primes](https://github.com/abdulazeem8630/leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/abdulazeem8630/leetcode/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/abdulazeem8630/leetcode/tree/master/0233-number-of-digit-one) |
+| [0241-different-ways-to-add-parentheses](https://github.com/abdulazeem8630/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0258-add-digits](https://github.com/abdulazeem8630/leetcode/tree/master/0258-add-digits) |
 ## Binary Search
 |  |
@@ -100,6 +101,7 @@
 | [0060-permutation-sequence](https://github.com/abdulazeem8630/leetcode/tree/master/0060-permutation-sequence) |
 | [0231-power-of-two](https://github.com/abdulazeem8630/leetcode/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/abdulazeem8630/leetcode/tree/master/0233-number-of-digit-one) |
+| [0241-different-ways-to-add-parentheses](https://github.com/abdulazeem8630/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 ## String
 |  |
 | ------- |
@@ -110,6 +112,7 @@
 | [0166-fraction-to-recurring-decimal](https://github.com/abdulazeem8630/leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/abdulazeem8630/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/abdulazeem8630/leetcode/tree/master/0171-excel-sheet-column-number) |
+| [0241-different-ways-to-add-parentheses](https://github.com/abdulazeem8630/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 ## Linked List
 |  |
 | ------- |
@@ -121,10 +124,12 @@
 | [0070-climbing-stairs](https://github.com/abdulazeem8630/leetcode/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/abdulazeem8630/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0233-number-of-digit-one](https://github.com/abdulazeem8630/leetcode/tree/master/0233-number-of-digit-one) |
+| [0241-different-ways-to-add-parentheses](https://github.com/abdulazeem8630/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/abdulazeem8630/leetcode/tree/master/0070-climbing-stairs) |
+| [0241-different-ways-to-add-parentheses](https://github.com/abdulazeem8630/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 ## Matrix
 |  |
 | ------- |
@@ -185,4 +190,8 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/abdulazeem8630/leetcode/tree/master/0204-count-primes) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/abdulazeem8630/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->
