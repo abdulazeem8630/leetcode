@@ -11,6 +11,7 @@
 | [0189-rotate-array](https://github.com/abdulazeem8630/leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/abdulazeem8630/leetcode/tree/master/0204-count-primes) |
 | [0219-contains-duplicate-ii](https://github.com/abdulazeem8630/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/abdulazeem8630/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -78,6 +79,7 @@
 | [0043-multiply-strings](https://github.com/abdulazeem8630/leetcode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/abdulazeem8630/leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/abdulazeem8630/leetcode/tree/master/0258-add-digits) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/abdulazeem8630/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Number Theory
 |  |
 | ------- |
