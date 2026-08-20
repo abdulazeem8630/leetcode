@@ -72,6 +72,7 @@
 | [0258-add-digits](https://github.com/abdulazeem8630/leetcode/tree/master/0258-add-digits) |
 | [0264-ugly-number-ii](https://github.com/abdulazeem8630/leetcode/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/abdulazeem8630/leetcode/tree/master/0273-integer-to-english-words) |
+| [0282-expression-add-operators](https://github.com/abdulazeem8630/leetcode/tree/master/0282-expression-add-operators) |
 ## Binary Search
 |  |
 | ------- |
@@ -122,6 +123,7 @@
 | [0227-basic-calculator-ii](https://github.com/abdulazeem8630/leetcode/tree/master/0227-basic-calculator-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/abdulazeem8630/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/abdulazeem8630/leetcode/tree/master/0273-integer-to-english-words) |
+| [0282-expression-add-operators](https://github.com/abdulazeem8630/leetcode/tree/master/0282-expression-add-operators) |
 ## Linked List
 |  |
 | ------- |
@@ -152,6 +154,7 @@
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/abdulazeem8630/leetcode/tree/master/0089-gray-code) |
+| [0282-expression-add-operators](https://github.com/abdulazeem8630/leetcode/tree/master/0282-expression-add-operators) |
 ## Tree
 |  |
 | ------- |
