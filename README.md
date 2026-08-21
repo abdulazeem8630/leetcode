@@ -14,6 +14,7 @@
 | [0368-largest-divisible-subset](https://github.com/abdulazeem8630/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/abdulazeem8630/leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/abdulazeem8630/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/abdulazeem8630/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Hash Table
 |  |
 | ------- |
@@ -81,10 +82,12 @@
 | [0368-largest-divisible-subset](https://github.com/abdulazeem8630/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/abdulazeem8630/leetcode/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/abdulazeem8630/leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/abdulazeem8630/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Binary Search
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/abdulazeem8630/leetcode/tree/master/0069-sqrtx) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/abdulazeem8630/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Simulation
 |  |
 | ------- |
@@ -97,6 +100,7 @@
 | ------- |
 | [0204-count-primes](https://github.com/abdulazeem8630/leetcode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/abdulazeem8630/leetcode/tree/master/0258-add-digits) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/abdulazeem8630/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Two Pointers
 |  |
 | ------- |
@@ -109,6 +113,7 @@
 | [0067-add-binary](https://github.com/abdulazeem8630/leetcode/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/abdulazeem8630/leetcode/tree/master/0089-gray-code) |
 | [0231-power-of-two](https://github.com/abdulazeem8630/leetcode/tree/master/0231-power-of-two) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/abdulazeem8630/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Recursion
 |  |
 | ------- |
@@ -160,6 +165,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/abdulazeem8630/leetcode/tree/master/0062-unique-paths) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/abdulazeem8630/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Backtracking
 |  |
 | ------- |
