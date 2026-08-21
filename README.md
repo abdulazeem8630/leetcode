@@ -11,6 +11,7 @@
 | [0189-rotate-array](https://github.com/abdulazeem8630/leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/abdulazeem8630/leetcode/tree/master/0204-count-primes) |
 | [0219-contains-duplicate-ii](https://github.com/abdulazeem8630/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/abdulazeem8630/leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/abdulazeem8630/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Hash Table
 |  |
@@ -23,6 +24,7 @@
 | [0202-happy-number](https://github.com/abdulazeem8630/leetcode/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/abdulazeem8630/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0264-ugly-number-ii](https://github.com/abdulazeem8630/leetcode/tree/master/0264-ugly-number-ii) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/abdulazeem8630/leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -73,6 +75,7 @@
 | [0264-ugly-number-ii](https://github.com/abdulazeem8630/leetcode/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/abdulazeem8630/leetcode/tree/master/0273-integer-to-english-words) |
 | [0282-expression-add-operators](https://github.com/abdulazeem8630/leetcode/tree/master/0282-expression-add-operators) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/abdulazeem8630/leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 ## Binary Search
 |  |
 | ------- |
@@ -212,4 +215,12 @@
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/abdulazeem8630/leetcode/tree/master/0264-ugly-number-ii) |
+## Design
+|  |
+| ------- |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/abdulazeem8630/leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+## Randomized
+|  |
+| ------- |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/abdulazeem8630/leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 <!---LeetCode Topics End-->
