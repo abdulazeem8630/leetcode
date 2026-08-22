@@ -11,6 +11,7 @@
 | [0189-rotate-array](https://github.com/abdulazeem8630/leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/abdulazeem8630/leetcode/tree/master/0204-count-primes) |
 | [0219-contains-duplicate-ii](https://github.com/abdulazeem8630/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0335-self-crossing](https://github.com/abdulazeem8630/leetcode/tree/master/0335-self-crossing) |
 | [0368-largest-divisible-subset](https://github.com/abdulazeem8630/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/abdulazeem8630/leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/abdulazeem8630/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -80,6 +81,7 @@
 | [0279-perfect-squares](https://github.com/abdulazeem8630/leetcode/tree/master/0279-perfect-squares) |
 | [0282-expression-add-operators](https://github.com/abdulazeem8630/leetcode/tree/master/0282-expression-add-operators) |
 | [0292-nim-game](https://github.com/abdulazeem8630/leetcode/tree/master/0292-nim-game) |
+| [0335-self-crossing](https://github.com/abdulazeem8630/leetcode/tree/master/0335-self-crossing) |
 | [0368-largest-divisible-subset](https://github.com/abdulazeem8630/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/abdulazeem8630/leetcode/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/abdulazeem8630/leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
@@ -190,6 +192,7 @@
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/abdulazeem8630/leetcode/tree/master/0149-max-points-on-a-line) |
+| [0335-self-crossing](https://github.com/abdulazeem8630/leetcode/tree/master/0335-self-crossing) |
 ## Euclidean Algorithm
 |  |
 | ------- |
