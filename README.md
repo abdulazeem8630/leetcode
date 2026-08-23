@@ -85,6 +85,7 @@
 | [0368-largest-divisible-subset](https://github.com/abdulazeem8630/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/abdulazeem8630/leetcode/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/abdulazeem8630/leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [1927-sum-game](https://github.com/abdulazeem8630/leetcode/tree/master/1927-sum-game) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/abdulazeem8630/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/abdulazeem8630/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Binary Search
@@ -141,6 +142,7 @@
 | [0241-different-ways-to-add-parentheses](https://github.com/abdulazeem8630/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/abdulazeem8630/leetcode/tree/master/0273-integer-to-english-words) |
 | [0282-expression-add-operators](https://github.com/abdulazeem8630/leetcode/tree/master/0282-expression-add-operators) |
+| [1927-sum-game](https://github.com/abdulazeem8630/leetcode/tree/master/1927-sum-game) |
 ## Linked List
 |  |
 | ------- |
@@ -256,6 +258,7 @@
 | ------- |
 | [0292-nim-game](https://github.com/abdulazeem8630/leetcode/tree/master/0292-nim-game) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/abdulazeem8630/leetcode/tree/master/0375-guess-number-higher-or-lower-ii) |
+| [1927-sum-game](https://github.com/abdulazeem8630/leetcode/tree/master/1927-sum-game) |
 ## Nim Game
 |  |
 | ------- |
@@ -276,4 +279,8 @@
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/abdulazeem8630/leetcode/tree/master/0279-perfect-squares) |
+## Greedy
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/abdulazeem8630/leetcode/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
