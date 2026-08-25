@@ -14,6 +14,7 @@
 | [0335-self-crossing](https://github.com/abdulazeem8630/leetcode/tree/master/0335-self-crossing) |
 | [0368-largest-divisible-subset](https://github.com/abdulazeem8630/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/abdulazeem8630/leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0391-perfect-rectangle](https://github.com/abdulazeem8630/leetcode/tree/master/0391-perfect-rectangle) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/abdulazeem8630/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/abdulazeem8630/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/abdulazeem8630/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -29,6 +30,7 @@
 | [0219-contains-duplicate-ii](https://github.com/abdulazeem8630/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0264-ugly-number-ii](https://github.com/abdulazeem8630/leetcode/tree/master/0264-ugly-number-ii) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/abdulazeem8630/leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0391-perfect-rectangle](https://github.com/abdulazeem8630/leetcode/tree/master/0391-perfect-rectangle) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/abdulazeem8630/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Divide and Conquer
 |  |
@@ -90,6 +92,7 @@
 | [0368-largest-divisible-subset](https://github.com/abdulazeem8630/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/abdulazeem8630/leetcode/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/abdulazeem8630/leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0391-perfect-rectangle](https://github.com/abdulazeem8630/leetcode/tree/master/0391-perfect-rectangle) |
 | [1927-sum-game](https://github.com/abdulazeem8630/leetcode/tree/master/1927-sum-game) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/abdulazeem8630/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/abdulazeem8630/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -203,6 +206,7 @@
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/abdulazeem8630/leetcode/tree/master/0149-max-points-on-a-line) |
 | [0335-self-crossing](https://github.com/abdulazeem8630/leetcode/tree/master/0335-self-crossing) |
+| [0391-perfect-rectangle](https://github.com/abdulazeem8630/leetcode/tree/master/0391-perfect-rectangle) |
 ## Euclidean Algorithm
 |  |
 | ------- |
@@ -306,4 +310,8 @@
 |  |
 | ------- |
 | [0365-water-and-jug-problem](https://github.com/abdulazeem8630/leetcode/tree/master/0365-water-and-jug-problem) |
+## Sweep Line
+|  |
+| ------- |
+| [0391-perfect-rectangle](https://github.com/abdulazeem8630/leetcode/tree/master/0391-perfect-rectangle) |
 <!---LeetCode Topics End-->
