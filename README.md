@@ -36,6 +36,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/abdulazeem8630/leetcode/tree/master/0169-majority-element) |
+| [0372-super-pow](https://github.com/abdulazeem8630/leetcode/tree/master/0372-super-pow) |
 ## Sorting
 |  |
 | ------- |
@@ -92,6 +93,7 @@
 | [0365-water-and-jug-problem](https://github.com/abdulazeem8630/leetcode/tree/master/0365-water-and-jug-problem) |
 | [0368-largest-divisible-subset](https://github.com/abdulazeem8630/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0371-sum-of-two-integers](https://github.com/abdulazeem8630/leetcode/tree/master/0371-sum-of-two-integers) |
+| [0372-super-pow](https://github.com/abdulazeem8630/leetcode/tree/master/0372-super-pow) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/abdulazeem8630/leetcode/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/abdulazeem8630/leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0391-perfect-rectangle](https://github.com/abdulazeem8630/leetcode/tree/master/0391-perfect-rectangle) |
@@ -318,4 +320,12 @@
 |  |
 | ------- |
 | [0391-perfect-rectangle](https://github.com/abdulazeem8630/leetcode/tree/master/0391-perfect-rectangle) |
+## Euler's Totient Function
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/abdulazeem8630/leetcode/tree/master/0372-super-pow) |
+## Euler's Theorem
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/abdulazeem8630/leetcode/tree/master/0372-super-pow) |
 <!---LeetCode Topics End-->
