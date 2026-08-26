@@ -91,6 +91,7 @@
 | [0343-integer-break](https://github.com/abdulazeem8630/leetcode/tree/master/0343-integer-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/abdulazeem8630/leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0365-water-and-jug-problem](https://github.com/abdulazeem8630/leetcode/tree/master/0365-water-and-jug-problem) |
+| [0367-valid-perfect-square](https://github.com/abdulazeem8630/leetcode/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/abdulazeem8630/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0371-sum-of-two-integers](https://github.com/abdulazeem8630/leetcode/tree/master/0371-sum-of-two-integers) |
 | [0372-super-pow](https://github.com/abdulazeem8630/leetcode/tree/master/0372-super-pow) |
@@ -104,6 +105,7 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/abdulazeem8630/leetcode/tree/master/0069-sqrtx) |
+| [0367-valid-perfect-square](https://github.com/abdulazeem8630/leetcode/tree/master/0367-valid-perfect-square) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/abdulazeem8630/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Simulation
 |  |
