@@ -89,6 +89,7 @@
 | [0279-perfect-squares](https://github.com/abdulazeem8630/leetcode/tree/master/0279-perfect-squares) |
 | [0282-expression-add-operators](https://github.com/abdulazeem8630/leetcode/tree/master/0282-expression-add-operators) |
 | [0292-nim-game](https://github.com/abdulazeem8630/leetcode/tree/master/0292-nim-game) |
+| [0326-power-of-three](https://github.com/abdulazeem8630/leetcode/tree/master/0326-power-of-three) |
 | [0335-self-crossing](https://github.com/abdulazeem8630/leetcode/tree/master/0335-self-crossing) |
 | [0343-integer-break](https://github.com/abdulazeem8630/leetcode/tree/master/0343-integer-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/abdulazeem8630/leetcode/tree/master/0357-count-numbers-with-unique-digits) |
@@ -146,6 +147,7 @@
 | [0233-number-of-digit-one](https://github.com/abdulazeem8630/leetcode/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/abdulazeem8630/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/abdulazeem8630/leetcode/tree/master/0273-integer-to-english-words) |
+| [0326-power-of-three](https://github.com/abdulazeem8630/leetcode/tree/master/0326-power-of-three) |
 ## String
 |  |
 | ------- |
