@@ -32,6 +32,7 @@
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/abdulazeem8630/leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0391-perfect-rectangle](https://github.com/abdulazeem8630/leetcode/tree/master/0391-perfect-rectangle) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/abdulazeem8630/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/abdulazeem8630/leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -46,6 +47,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/abdulazeem8630/leetcode/tree/master/0169-majority-element) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/abdulazeem8630/leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Sliding Window
 |  |
 | ------- |
@@ -160,6 +162,7 @@
 | [0282-expression-add-operators](https://github.com/abdulazeem8630/leetcode/tree/master/0282-expression-add-operators) |
 | [1927-sum-game](https://github.com/abdulazeem8630/leetcode/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/abdulazeem8630/leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/abdulazeem8630/leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Linked List
 |  |
 | ------- |
@@ -241,6 +244,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/abdulazeem8630/leetcode/tree/master/0204-count-primes) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/abdulazeem8630/leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Primality Test
 |  |
 | ------- |
@@ -309,6 +313,7 @@
 |  |
 | ------- |
 | [1927-sum-game](https://github.com/abdulazeem8630/leetcode/tree/master/1927-sum-game) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/abdulazeem8630/leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Depth-First Search
 |  |
 | ------- |
