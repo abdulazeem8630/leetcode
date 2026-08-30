@@ -112,6 +112,7 @@
 | [0412-fizz-buzz](https://github.com/abdulazeem8630/leetcode/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/abdulazeem8630/leetcode/tree/master/0441-arranging-coins) |
 | [0458-poor-pigs](https://github.com/abdulazeem8630/leetcode/tree/master/0458-poor-pigs) |
+| [0479-largest-palindrome-product](https://github.com/abdulazeem8630/leetcode/tree/master/0479-largest-palindrome-product) |
 | [1927-sum-game](https://github.com/abdulazeem8630/leetcode/tree/master/1927-sum-game) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/abdulazeem8630/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/abdulazeem8630/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -263,6 +264,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/abdulazeem8630/leetcode/tree/master/0204-count-primes) |
+| [0479-largest-palindrome-product](https://github.com/abdulazeem8630/leetcode/tree/master/0479-largest-palindrome-product) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/abdulazeem8630/leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/abdulazeem8630/leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Primality Test
