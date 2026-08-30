@@ -89,6 +89,7 @@
 | [0233-number-of-digit-one](https://github.com/abdulazeem8630/leetcode/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/abdulazeem8630/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0258-add-digits](https://github.com/abdulazeem8630/leetcode/tree/master/0258-add-digits) |
+| [0263-ugly-number](https://github.com/abdulazeem8630/leetcode/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/abdulazeem8630/leetcode/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/abdulazeem8630/leetcode/tree/master/0273-integer-to-english-words) |
 | [0279-perfect-squares](https://github.com/abdulazeem8630/leetcode/tree/master/0279-perfect-squares) |
