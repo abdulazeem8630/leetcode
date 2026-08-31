@@ -114,6 +114,7 @@
 | [0458-poor-pigs](https://github.com/abdulazeem8630/leetcode/tree/master/0458-poor-pigs) |
 | [0479-largest-palindrome-product](https://github.com/abdulazeem8630/leetcode/tree/master/0479-largest-palindrome-product) |
 | [0483-smallest-good-base](https://github.com/abdulazeem8630/leetcode/tree/master/0483-smallest-good-base) |
+| [0492-construct-the-rectangle](https://github.com/abdulazeem8630/leetcode/tree/master/0492-construct-the-rectangle) |
 | [1927-sum-game](https://github.com/abdulazeem8630/leetcode/tree/master/1927-sum-game) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/abdulazeem8630/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/abdulazeem8630/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
