@@ -154,6 +154,7 @@
 | ------- |
 | [0189-rotate-array](https://github.com/abdulazeem8630/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/abdulazeem8630/leetcode/tree/master/0202-happy-number) |
+| [0345-reverse-vowels-of-a-string](https://github.com/abdulazeem8630/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [1768-merge-strings-alternately](https://github.com/abdulazeem8630/leetcode/tree/master/1768-merge-strings-alternately) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/abdulazeem8630/leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Bit Manipulation
@@ -191,6 +192,7 @@
 | [0241-different-ways-to-add-parentheses](https://github.com/abdulazeem8630/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/abdulazeem8630/leetcode/tree/master/0273-integer-to-english-words) |
 | [0282-expression-add-operators](https://github.com/abdulazeem8630/leetcode/tree/master/0282-expression-add-operators) |
+| [0345-reverse-vowels-of-a-string](https://github.com/abdulazeem8630/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0412-fizz-buzz](https://github.com/abdulazeem8630/leetcode/tree/master/0412-fizz-buzz) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/abdulazeem8630/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/abdulazeem8630/leetcode/tree/master/1768-merge-strings-alternately) |
