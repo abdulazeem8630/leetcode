@@ -185,6 +185,7 @@
 | [0013-roman-to-integer](https://github.com/abdulazeem8630/leetcode/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/abdulazeem8630/leetcode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/abdulazeem8630/leetcode/tree/master/0067-add-binary) |
+| [0115-distinct-subsequences](https://github.com/abdulazeem8630/leetcode/tree/master/0115-distinct-subsequences) |
 | [0166-fraction-to-recurring-decimal](https://github.com/abdulazeem8630/leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/abdulazeem8630/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/abdulazeem8630/leetcode/tree/master/0171-excel-sheet-column-number) |
@@ -211,6 +212,7 @@
 | [0062-unique-paths](https://github.com/abdulazeem8630/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/abdulazeem8630/leetcode/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/abdulazeem8630/leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0115-distinct-subsequences](https://github.com/abdulazeem8630/leetcode/tree/master/0115-distinct-subsequences) |
 | [0233-number-of-digit-one](https://github.com/abdulazeem8630/leetcode/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/abdulazeem8630/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/abdulazeem8630/leetcode/tree/master/0264-ugly-number-ii) |
