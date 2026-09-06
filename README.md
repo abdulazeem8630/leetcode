@@ -152,6 +152,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/abdulazeem8630/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/abdulazeem8630/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/abdulazeem8630/leetcode/tree/master/0202-happy-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/abdulazeem8630/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -186,6 +187,7 @@
 | [0043-multiply-strings](https://github.com/abdulazeem8630/leetcode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/abdulazeem8630/leetcode/tree/master/0067-add-binary) |
 | [0115-distinct-subsequences](https://github.com/abdulazeem8630/leetcode/tree/master/0115-distinct-subsequences) |
+| [0151-reverse-words-in-a-string](https://github.com/abdulazeem8630/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0166-fraction-to-recurring-decimal](https://github.com/abdulazeem8630/leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/abdulazeem8630/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/abdulazeem8630/leetcode/tree/master/0171-excel-sheet-column-number) |
