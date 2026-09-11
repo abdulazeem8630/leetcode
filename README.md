@@ -161,6 +161,7 @@
 | [0202-happy-number](https://github.com/abdulazeem8630/leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/abdulazeem8630/leetcode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/abdulazeem8630/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/abdulazeem8630/leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/abdulazeem8630/leetcode/tree/master/0443-string-compression) |
 | [1768-merge-strings-alternately](https://github.com/abdulazeem8630/leetcode/tree/master/1768-merge-strings-alternately) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/abdulazeem8630/leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -202,6 +203,7 @@
 | [0273-integer-to-english-words](https://github.com/abdulazeem8630/leetcode/tree/master/0273-integer-to-english-words) |
 | [0282-expression-add-operators](https://github.com/abdulazeem8630/leetcode/tree/master/0282-expression-add-operators) |
 | [0345-reverse-vowels-of-a-string](https://github.com/abdulazeem8630/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/abdulazeem8630/leetcode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/abdulazeem8630/leetcode/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/abdulazeem8630/leetcode/tree/master/0443-string-compression) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/abdulazeem8630/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -230,6 +232,7 @@
 | [0357-count-numbers-with-unique-digits](https://github.com/abdulazeem8630/leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0368-largest-divisible-subset](https://github.com/abdulazeem8630/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/abdulazeem8630/leetcode/tree/master/0375-guess-number-higher-or-lower-ii) |
+| [0392-is-subsequence](https://github.com/abdulazeem8630/leetcode/tree/master/0392-is-subsequence) |
 | [0458-poor-pigs](https://github.com/abdulazeem8630/leetcode/tree/master/0458-poor-pigs) |
 ## Memoization
 |  |
