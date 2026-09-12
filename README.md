@@ -24,6 +24,7 @@
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/abdulazeem8630/leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/abdulazeem8630/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/abdulazeem8630/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/abdulazeem8630/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/abdulazeem8630/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/abdulazeem8630/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/abdulazeem8630/leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -57,6 +58,7 @@
 | [0169-majority-element](https://github.com/abdulazeem8630/leetcode/tree/master/0169-majority-element) |
 | [0368-largest-divisible-subset](https://github.com/abdulazeem8630/leetcode/tree/master/0368-largest-divisible-subset) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/abdulazeem8630/leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/abdulazeem8630/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Counting
 |  |
 | ------- |
@@ -141,6 +143,7 @@
 | [0441-arranging-coins](https://github.com/abdulazeem8630/leetcode/tree/master/0441-arranging-coins) |
 | [0483-smallest-good-base](https://github.com/abdulazeem8630/leetcode/tree/master/0483-smallest-good-base) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/abdulazeem8630/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/abdulazeem8630/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Simulation
 |  |
 | ------- |
@@ -237,6 +240,7 @@
 | [0375-guess-number-higher-or-lower-ii](https://github.com/abdulazeem8630/leetcode/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0392-is-subsequence](https://github.com/abdulazeem8630/leetcode/tree/master/0392-is-subsequence) |
 | [0458-poor-pigs](https://github.com/abdulazeem8630/leetcode/tree/master/0458-poor-pigs) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/abdulazeem8630/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Memoization
 |  |
 | ------- |
