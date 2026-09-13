@@ -20,6 +20,7 @@
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/abdulazeem8630/leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0391-perfect-rectangle](https://github.com/abdulazeem8630/leetcode/tree/master/0391-perfect-rectangle) |
 | [0605-can-place-flowers](https://github.com/abdulazeem8630/leetcode/tree/master/0605-can-place-flowers) |
+| [0835-image-overlap](https://github.com/abdulazeem8630/leetcode/tree/master/0835-image-overlap) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/abdulazeem8630/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/abdulazeem8630/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/abdulazeem8630/leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -252,6 +253,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/abdulazeem8630/leetcode/tree/master/0048-rotate-image) |
+| [0835-image-overlap](https://github.com/abdulazeem8630/leetcode/tree/master/0835-image-overlap) |
 ## Combinatorics
 |  |
 | ------- |
