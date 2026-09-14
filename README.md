@@ -6,6 +6,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/abdulazeem8630/leetcode/tree/master/0011-container-with-most-water) |
 | [0048-rotate-image](https://github.com/abdulazeem8630/leetcode/tree/master/0048-rotate-image) |
+| [0051-n-queens](https://github.com/abdulazeem8630/leetcode/tree/master/0051-n-queens) |
 | [0149-max-points-on-a-line](https://github.com/abdulazeem8630/leetcode/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/abdulazeem8630/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/abdulazeem8630/leetcode/tree/master/0169-majority-element) |
@@ -273,6 +274,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/abdulazeem8630/leetcode/tree/master/0051-n-queens) |
 | [0089-gray-code](https://github.com/abdulazeem8630/leetcode/tree/master/0089-gray-code) |
 | [0282-expression-add-operators](https://github.com/abdulazeem8630/leetcode/tree/master/0282-expression-add-operators) |
 | [0357-count-numbers-with-unique-digits](https://github.com/abdulazeem8630/leetcode/tree/master/0357-count-numbers-with-unique-digits) |
@@ -438,4 +440,8 @@
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/abdulazeem8630/leetcode/tree/master/0334-increasing-triplet-subsequence) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/abdulazeem8630/leetcode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
