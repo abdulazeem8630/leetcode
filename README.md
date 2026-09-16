@@ -23,6 +23,7 @@
 | [0605-can-place-flowers](https://github.com/abdulazeem8630/leetcode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/abdulazeem8630/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0835-image-overlap](https://github.com/abdulazeem8630/leetcode/tree/master/0835-image-overlap) |
+| [1004-max-consecutive-ones-iii](https://github.com/abdulazeem8630/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/abdulazeem8630/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/abdulazeem8630/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/abdulazeem8630/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -79,6 +80,7 @@
 | [0076-minimum-window-substring](https://github.com/abdulazeem8630/leetcode/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/abdulazeem8630/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/abdulazeem8630/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [1004-max-consecutive-ones-iii](https://github.com/abdulazeem8630/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/abdulazeem8630/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/abdulazeem8630/leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Math
@@ -155,6 +157,7 @@
 | [0367-valid-perfect-square](https://github.com/abdulazeem8630/leetcode/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/abdulazeem8630/leetcode/tree/master/0441-arranging-coins) |
 | [0483-smallest-good-base](https://github.com/abdulazeem8630/leetcode/tree/master/0483-smallest-good-base) |
+| [1004-max-consecutive-ones-iii](https://github.com/abdulazeem8630/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/abdulazeem8630/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/abdulazeem8630/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Simulation
@@ -445,6 +448,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/abdulazeem8630/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/abdulazeem8630/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3903-smallest-stable-index-i](https://github.com/abdulazeem8630/leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/abdulazeem8630/leetcode/tree/master/3904-smallest-stable-index-ii) |
