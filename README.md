@@ -22,6 +22,7 @@
 | [0391-perfect-rectangle](https://github.com/abdulazeem8630/leetcode/tree/master/0391-perfect-rectangle) |
 | [0605-can-place-flowers](https://github.com/abdulazeem8630/leetcode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/abdulazeem8630/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0724-find-pivot-index](https://github.com/abdulazeem8630/leetcode/tree/master/0724-find-pivot-index) |
 | [0835-image-overlap](https://github.com/abdulazeem8630/leetcode/tree/master/0835-image-overlap) |
 | [1004-max-consecutive-ones-iii](https://github.com/abdulazeem8630/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/abdulazeem8630/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -463,6 +464,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/abdulazeem8630/leetcode/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/abdulazeem8630/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/abdulazeem8630/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1732-find-the-highest-altitude](https://github.com/abdulazeem8630/leetcode/tree/master/1732-find-the-highest-altitude) |
