@@ -34,6 +34,7 @@
 | [1732-find-the-highest-altitude](https://github.com/abdulazeem8630/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/abdulazeem8630/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/abdulazeem8630/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2352-equal-row-and-column-pairs](https://github.com/abdulazeem8630/leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/abdulazeem8630/leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/abdulazeem8630/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/abdulazeem8630/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -67,6 +68,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/abdulazeem8630/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/abdulazeem8630/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/abdulazeem8630/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2352-equal-row-and-column-pairs](https://github.com/abdulazeem8630/leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/abdulazeem8630/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/abdulazeem8630/leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Divide and Conquer
@@ -190,6 +192,7 @@
 | [0067-add-binary](https://github.com/abdulazeem8630/leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/abdulazeem8630/leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/abdulazeem8630/leetcode/tree/master/0412-fizz-buzz) |
+| [2352-equal-row-and-column-pairs](https://github.com/abdulazeem8630/leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/abdulazeem8630/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/abdulazeem8630/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Number Theory
@@ -306,6 +309,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/abdulazeem8630/leetcode/tree/master/0048-rotate-image) |
 | [0835-image-overlap](https://github.com/abdulazeem8630/leetcode/tree/master/0835-image-overlap) |
+| [2352-equal-row-and-column-pairs](https://github.com/abdulazeem8630/leetcode/tree/master/2352-equal-row-and-column-pairs) |
 ## Combinatorics
 |  |
 | ------- |
