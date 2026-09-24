@@ -195,6 +195,7 @@
 | [0258-add-digits](https://github.com/abdulazeem8630/leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/abdulazeem8630/leetcode/tree/master/0412-fizz-buzz) |
 | [2352-equal-row-and-column-pairs](https://github.com/abdulazeem8630/leetcode/tree/master/2352-equal-row-and-column-pairs) |
+| [2390-removing-stars-from-a-string](https://github.com/abdulazeem8630/leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/abdulazeem8630/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/abdulazeem8630/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Number Theory
@@ -267,6 +268,7 @@
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/abdulazeem8630/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1768-merge-strings-alternately](https://github.com/abdulazeem8630/leetcode/tree/master/1768-merge-strings-alternately) |
 | [1927-sum-game](https://github.com/abdulazeem8630/leetcode/tree/master/1927-sum-game) |
+| [2390-removing-stars-from-a-string](https://github.com/abdulazeem8630/leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/abdulazeem8630/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/abdulazeem8630/leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/abdulazeem8630/leetcode/tree/master/3498-reverse-degree-of-a-string) |
@@ -365,6 +367,7 @@
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/abdulazeem8630/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0227-basic-calculator-ii](https://github.com/abdulazeem8630/leetcode/tree/master/0227-basic-calculator-ii) |
+| [2390-removing-stars-from-a-string](https://github.com/abdulazeem8630/leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
