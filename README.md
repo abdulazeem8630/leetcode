@@ -63,6 +63,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/abdulazeem8630/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/abdulazeem8630/leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0391-perfect-rectangle](https://github.com/abdulazeem8630/leetcode/tree/master/0391-perfect-rectangle) |
+| [1096-brace-expansion-ii](https://github.com/abdulazeem8630/leetcode/tree/master/1096-brace-expansion-ii) |
 | [1207-unique-number-of-occurrences](https://github.com/abdulazeem8630/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/abdulazeem8630/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/abdulazeem8630/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -82,6 +83,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/abdulazeem8630/leetcode/tree/master/0169-majority-element) |
 | [0368-largest-divisible-subset](https://github.com/abdulazeem8630/leetcode/tree/master/0368-largest-divisible-subset) |
+| [1096-brace-expansion-ii](https://github.com/abdulazeem8630/leetcode/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/abdulazeem8630/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/abdulazeem8630/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/abdulazeem8630/leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -264,6 +266,7 @@
 | [0412-fizz-buzz](https://github.com/abdulazeem8630/leetcode/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/abdulazeem8630/leetcode/tree/master/0443-string-compression) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/abdulazeem8630/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1096-brace-expansion-ii](https://github.com/abdulazeem8630/leetcode/tree/master/1096-brace-expansion-ii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/abdulazeem8630/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/abdulazeem8630/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1768-merge-strings-alternately](https://github.com/abdulazeem8630/leetcode/tree/master/1768-merge-strings-alternately) |
@@ -328,6 +331,7 @@
 | [0089-gray-code](https://github.com/abdulazeem8630/leetcode/tree/master/0089-gray-code) |
 | [0282-expression-add-operators](https://github.com/abdulazeem8630/leetcode/tree/master/0282-expression-add-operators) |
 | [0357-count-numbers-with-unique-digits](https://github.com/abdulazeem8630/leetcode/tree/master/0357-count-numbers-with-unique-digits) |
+| [1096-brace-expansion-ii](https://github.com/abdulazeem8630/leetcode/tree/master/1096-brace-expansion-ii) |
 ## Tree
 |  |
 | ------- |
@@ -367,6 +371,7 @@
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/abdulazeem8630/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0227-basic-calculator-ii](https://github.com/abdulazeem8630/leetcode/tree/master/0227-basic-calculator-ii) |
+| [1096-brace-expansion-ii](https://github.com/abdulazeem8630/leetcode/tree/master/1096-brace-expansion-ii) |
 | [2390-removing-stars-from-a-string](https://github.com/abdulazeem8630/leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -437,6 +442,7 @@
 | ------- |
 | [0279-perfect-squares](https://github.com/abdulazeem8630/leetcode/tree/master/0279-perfect-squares) |
 | [0365-water-and-jug-problem](https://github.com/abdulazeem8630/leetcode/tree/master/0365-water-and-jug-problem) |
+| [1096-brace-expansion-ii](https://github.com/abdulazeem8630/leetcode/tree/master/1096-brace-expansion-ii) |
 ## Knapsack Problem
 |  |
 | ------- |
