@@ -247,6 +247,7 @@
 | [0273-integer-to-english-words](https://github.com/abdulazeem8630/leetcode/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/abdulazeem8630/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/abdulazeem8630/leetcode/tree/master/0342-power-of-four) |
+| [0394-decode-string](https://github.com/abdulazeem8630/leetcode/tree/master/0394-decode-string) |
 ## String
 |  |
 | ------- |
@@ -267,6 +268,7 @@
 | [0282-expression-add-operators](https://github.com/abdulazeem8630/leetcode/tree/master/0282-expression-add-operators) |
 | [0345-reverse-vowels-of-a-string](https://github.com/abdulazeem8630/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/abdulazeem8630/leetcode/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/abdulazeem8630/leetcode/tree/master/0394-decode-string) |
 | [0412-fizz-buzz](https://github.com/abdulazeem8630/leetcode/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/abdulazeem8630/leetcode/tree/master/0443-string-compression) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/abdulazeem8630/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -376,6 +378,7 @@
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/abdulazeem8630/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0227-basic-calculator-ii](https://github.com/abdulazeem8630/leetcode/tree/master/0227-basic-calculator-ii) |
+| [0394-decode-string](https://github.com/abdulazeem8630/leetcode/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/abdulazeem8630/leetcode/tree/master/0735-asteroid-collision) |
 | [1096-brace-expansion-ii](https://github.com/abdulazeem8630/leetcode/tree/master/1096-brace-expansion-ii) |
 | [2390-removing-stars-from-a-string](https://github.com/abdulazeem8630/leetcode/tree/master/2390-removing-stars-from-a-string) |
