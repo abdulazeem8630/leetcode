@@ -33,6 +33,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/abdulazeem8630/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/abdulazeem8630/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/abdulazeem8630/leetcode/tree/master/1732-find-the-highest-altitude) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/abdulazeem8630/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/abdulazeem8630/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/abdulazeem8630/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2352-equal-row-and-column-pairs](https://github.com/abdulazeem8630/leetcode/tree/master/2352-equal-row-and-column-pairs) |
@@ -70,6 +71,7 @@
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/abdulazeem8630/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/abdulazeem8630/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/abdulazeem8630/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/abdulazeem8630/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/abdulazeem8630/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2352-equal-row-and-column-pairs](https://github.com/abdulazeem8630/leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/abdulazeem8630/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -272,6 +274,7 @@
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/abdulazeem8630/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/abdulazeem8630/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1768-merge-strings-alternately](https://github.com/abdulazeem8630/leetcode/tree/master/1768-merge-strings-alternately) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/abdulazeem8630/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/abdulazeem8630/leetcode/tree/master/1927-sum-game) |
 | [2390-removing-stars-from-a-string](https://github.com/abdulazeem8630/leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/abdulazeem8630/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
