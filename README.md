@@ -421,6 +421,7 @@
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/abdulazeem8630/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/abdulazeem8630/leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0933-number-of-recent-calls](https://github.com/abdulazeem8630/leetcode/tree/master/0933-number-of-recent-calls) |
 ## Randomized
 |  |
 | ------- |
@@ -525,4 +526,12 @@
 |  |
 | ------- |
 | [3525-find-x-value-of-array-ii](https://github.com/abdulazeem8630/leetcode/tree/master/3525-find-x-value-of-array-ii) |
+## Queue
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/abdulazeem8630/leetcode/tree/master/0933-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/abdulazeem8630/leetcode/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
