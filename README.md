@@ -271,6 +271,7 @@
 | [0394-decode-string](https://github.com/abdulazeem8630/leetcode/tree/master/0394-decode-string) |
 | [0412-fizz-buzz](https://github.com/abdulazeem8630/leetcode/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/abdulazeem8630/leetcode/tree/master/0443-string-compression) |
+| [0649-dota2-senate](https://github.com/abdulazeem8630/leetcode/tree/master/0649-dota2-senate) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/abdulazeem8630/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1096-brace-expansion-ii](https://github.com/abdulazeem8630/leetcode/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/abdulazeem8630/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -470,6 +471,7 @@
 | [0011-container-with-most-water](https://github.com/abdulazeem8630/leetcode/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/abdulazeem8630/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/abdulazeem8630/leetcode/tree/master/0605-can-place-flowers) |
+| [0649-dota2-senate](https://github.com/abdulazeem8630/leetcode/tree/master/0649-dota2-senate) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/abdulazeem8630/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/abdulazeem8630/leetcode/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/abdulazeem8630/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -529,6 +531,7 @@
 ## Queue
 |  |
 | ------- |
+| [0649-dota2-senate](https://github.com/abdulazeem8630/leetcode/tree/master/0649-dota2-senate) |
 | [0933-number-of-recent-calls](https://github.com/abdulazeem8630/leetcode/tree/master/0933-number-of-recent-calls) |
 ## Data Stream
 |  |
