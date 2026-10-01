@@ -242,6 +242,7 @@
 | [0002-add-two-numbers](https://github.com/abdulazeem8630/leetcode/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/abdulazeem8630/leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0060-permutation-sequence](https://github.com/abdulazeem8630/leetcode/tree/master/0060-permutation-sequence) |
+| [0206-reverse-linked-list](https://github.com/abdulazeem8630/leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/abdulazeem8630/leetcode/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/abdulazeem8630/leetcode/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/abdulazeem8630/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
@@ -294,6 +295,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/abdulazeem8630/leetcode/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/abdulazeem8630/leetcode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0206-reverse-linked-list](https://github.com/abdulazeem8630/leetcode/tree/master/0206-reverse-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/abdulazeem8630/leetcode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Dynamic Programming
 |  |
