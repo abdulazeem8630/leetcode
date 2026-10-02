@@ -257,6 +257,7 @@
 | [0012-integer-to-roman](https://github.com/abdulazeem8630/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/abdulazeem8630/leetcode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/abdulazeem8630/leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/abdulazeem8630/leetcode/tree/master/0022-generate-parentheses) |
 | [0043-multiply-strings](https://github.com/abdulazeem8630/leetcode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/abdulazeem8630/leetcode/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/abdulazeem8630/leetcode/tree/master/0076-minimum-window-substring) |
@@ -300,6 +301,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/abdulazeem8630/leetcode/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/abdulazeem8630/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/abdulazeem8630/leetcode/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/abdulazeem8630/leetcode/tree/master/0096-unique-binary-search-trees) |
@@ -343,6 +345,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/abdulazeem8630/leetcode/tree/master/0022-generate-parentheses) |
 | [0051-n-queens](https://github.com/abdulazeem8630/leetcode/tree/master/0051-n-queens) |
 | [0089-gray-code](https://github.com/abdulazeem8630/leetcode/tree/master/0089-gray-code) |
 | [0282-expression-add-operators](https://github.com/abdulazeem8630/leetcode/tree/master/0282-expression-add-operators) |
@@ -421,6 +424,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/abdulazeem8630/leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/abdulazeem8630/leetcode/tree/master/0022-generate-parentheses) |
 | [0241-different-ways-to-add-parentheses](https://github.com/abdulazeem8630/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/abdulazeem8630/leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/abdulazeem8630/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
