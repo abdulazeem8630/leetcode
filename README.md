@@ -259,6 +259,7 @@
 | [0013-roman-to-integer](https://github.com/abdulazeem8630/leetcode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/abdulazeem8630/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/abdulazeem8630/leetcode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/abdulazeem8630/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/abdulazeem8630/leetcode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/abdulazeem8630/leetcode/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/abdulazeem8630/leetcode/tree/master/0076-minimum-window-substring) |
@@ -304,6 +305,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/abdulazeem8630/leetcode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/abdulazeem8630/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0062-unique-paths](https://github.com/abdulazeem8630/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/abdulazeem8630/leetcode/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/abdulazeem8630/leetcode/tree/master/0096-unique-binary-search-trees) |
@@ -391,6 +393,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/abdulazeem8630/leetcode/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/abdulazeem8630/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/abdulazeem8630/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0227-basic-calculator-ii](https://github.com/abdulazeem8630/leetcode/tree/master/0227-basic-calculator-ii) |
 | [0394-decode-string](https://github.com/abdulazeem8630/leetcode/tree/master/0394-decode-string) |
@@ -428,6 +431,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/abdulazeem8630/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/abdulazeem8630/leetcode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/abdulazeem8630/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0241-different-ways-to-add-parentheses](https://github.com/abdulazeem8630/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/abdulazeem8630/leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/abdulazeem8630/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
