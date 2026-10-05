@@ -1,26 +1,35 @@
+import java.util.Stack;
+
 class Solution {
     public boolean checkValidString(String s) {
-        int cmin = 0;
-        int cmax = 0;
+        Stack<Integer> openStack = new Stack<>();
+        Stack<Integer> starStack = new Stack<>();
         
         for (int i = 0; i < s.length(); i++) {
             char c = s.charAt(i);
             if (c == '(') {
-                cmin++;
-                cmax++;
-            } else if (c == ')') {
-                cmin--;
-                cmax--;
+                openStack.push(i);
+            } else if (c == '*') {
+                starStack.push(i);
             } else {
-                cmin--;
-                cmax++;
+                if (!openStack.isEmpty()) {
+                    openStack.pop();
+                } else if (!starStack.isEmpty()) {
+                    starStack.pop();
+                } else {
+                    return false;
+                }
             }
-            if (cmax < 0) {
-                return false;
-            }
-            cmin = Math.max(cmin, 0);
         }
         
-        return cmin == 0;
+        while (!openStack.isEmpty() && !starStack.isEmpty()) {
+            if (openStack.peek() > starStack.peek()) {
+                return false;
+            }
+            openStack.pop();
+            starStack.pop();
+        }
+        
+        return openStack.isEmpty();
     }
 }
