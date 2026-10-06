@@ -365,6 +365,7 @@
 | [0096-unique-binary-search-trees](https://github.com/abdulazeem8630/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/abdulazeem8630/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/abdulazeem8630/leetcode/tree/master/0872-leaf-similar-trees) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/abdulazeem8630/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/abdulazeem8630/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search Tree
 |  |
@@ -376,6 +377,7 @@
 | [0096-unique-binary-search-trees](https://github.com/abdulazeem8630/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/abdulazeem8630/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/abdulazeem8630/leetcode/tree/master/0872-leaf-similar-trees) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/abdulazeem8630/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/abdulazeem8630/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Geometry
 |  |
@@ -495,6 +497,7 @@
 | [0279-perfect-squares](https://github.com/abdulazeem8630/leetcode/tree/master/0279-perfect-squares) |
 | [0365-water-and-jug-problem](https://github.com/abdulazeem8630/leetcode/tree/master/0365-water-and-jug-problem) |
 | [1096-brace-expansion-ii](https://github.com/abdulazeem8630/leetcode/tree/master/1096-brace-expansion-ii) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/abdulazeem8630/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -523,6 +526,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/abdulazeem8630/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0365-water-and-jug-problem](https://github.com/abdulazeem8630/leetcode/tree/master/0365-water-and-jug-problem) |
 | [0872-leaf-similar-trees](https://github.com/abdulazeem8630/leetcode/tree/master/0872-leaf-similar-trees) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/abdulazeem8630/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/abdulazeem8630/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Bézout's Lemma
 |  |
