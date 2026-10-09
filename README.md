@@ -326,6 +326,7 @@
 | [0392-is-subsequence](https://github.com/abdulazeem8630/leetcode/tree/master/0392-is-subsequence) |
 | [0458-poor-pigs](https://github.com/abdulazeem8630/leetcode/tree/master/0458-poor-pigs) |
 | [0678-valid-parenthesis-string](https://github.com/abdulazeem8630/leetcode/tree/master/0678-valid-parenthesis-string) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/abdulazeem8630/leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/abdulazeem8630/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/abdulazeem8630/leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/abdulazeem8630/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -369,6 +370,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/abdulazeem8630/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0437-path-sum-iii](https://github.com/abdulazeem8630/leetcode/tree/master/0437-path-sum-iii) |
 | [0872-leaf-similar-trees](https://github.com/abdulazeem8630/leetcode/tree/master/0872-leaf-similar-trees) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/abdulazeem8630/leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/abdulazeem8630/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/abdulazeem8630/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search Tree
@@ -382,6 +384,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/abdulazeem8630/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0437-path-sum-iii](https://github.com/abdulazeem8630/leetcode/tree/master/0437-path-sum-iii) |
 | [0872-leaf-similar-trees](https://github.com/abdulazeem8630/leetcode/tree/master/0872-leaf-similar-trees) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/abdulazeem8630/leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/abdulazeem8630/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/abdulazeem8630/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Geometry
@@ -536,6 +539,7 @@
 | [0365-water-and-jug-problem](https://github.com/abdulazeem8630/leetcode/tree/master/0365-water-and-jug-problem) |
 | [0437-path-sum-iii](https://github.com/abdulazeem8630/leetcode/tree/master/0437-path-sum-iii) |
 | [0872-leaf-similar-trees](https://github.com/abdulazeem8630/leetcode/tree/master/0872-leaf-similar-trees) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/abdulazeem8630/leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/abdulazeem8630/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/abdulazeem8630/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Bézout's Lemma
@@ -593,4 +597,8 @@
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/abdulazeem8630/leetcode/tree/master/0933-number-of-recent-calls) |
+## DP on Trees
+|  |
+| ------- |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/abdulazeem8630/leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 <!---LeetCode Topics End-->
