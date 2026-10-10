@@ -371,6 +371,7 @@
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/abdulazeem8630/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/abdulazeem8630/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/abdulazeem8630/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/abdulazeem8630/leetcode/tree/master/0437-path-sum-iii) |
 | [0872-leaf-similar-trees](https://github.com/abdulazeem8630/leetcode/tree/master/0872-leaf-similar-trees) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/abdulazeem8630/leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
@@ -385,6 +386,7 @@
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/abdulazeem8630/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/abdulazeem8630/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/abdulazeem8630/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/abdulazeem8630/leetcode/tree/master/0437-path-sum-iii) |
 | [0872-leaf-similar-trees](https://github.com/abdulazeem8630/leetcode/tree/master/0872-leaf-similar-trees) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/abdulazeem8630/leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
@@ -541,6 +543,7 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/abdulazeem8630/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/abdulazeem8630/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0365-water-and-jug-problem](https://github.com/abdulazeem8630/leetcode/tree/master/0365-water-and-jug-problem) |
 | [0437-path-sum-iii](https://github.com/abdulazeem8630/leetcode/tree/master/0437-path-sum-iii) |
 | [0872-leaf-similar-trees](https://github.com/abdulazeem8630/leetcode/tree/master/0872-leaf-similar-trees) |
@@ -606,4 +609,12 @@
 |  |
 | ------- |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/abdulazeem8630/leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
+## Binary Lifting
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/abdulazeem8630/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/abdulazeem8630/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 <!---LeetCode Topics End-->
