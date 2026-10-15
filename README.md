@@ -41,6 +41,7 @@
 | [2352-equal-row-and-column-pairs](https://github.com/abdulazeem8630/leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/abdulazeem8630/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/abdulazeem8630/leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/abdulazeem8630/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/abdulazeem8630/leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/abdulazeem8630/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/abdulazeem8630/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -80,6 +81,7 @@
 | [2215-find-the-difference-of-two-arrays](https://github.com/abdulazeem8630/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2352-equal-row-and-column-pairs](https://github.com/abdulazeem8630/leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/abdulazeem8630/leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/abdulazeem8630/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/abdulazeem8630/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/abdulazeem8630/leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Divide and Conquer
@@ -620,6 +622,7 @@
 ## Segment Tree
 |  |
 | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/abdulazeem8630/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/abdulazeem8630/leetcode/tree/master/3525-find-x-value-of-array-ii) |
 ## Queue
 |  |
@@ -642,4 +645,8 @@
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/abdulazeem8630/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/abdulazeem8630/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
