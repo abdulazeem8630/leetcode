@@ -85,6 +85,7 @@
 | [1679-max-number-of-k-sum-pairs](https://github.com/abdulazeem8630/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/abdulazeem8630/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/abdulazeem8630/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2336-smallest-number-in-infinite-set](https://github.com/abdulazeem8630/leetcode/tree/master/2336-smallest-number-in-infinite-set) |
 | [2352-equal-row-and-column-pairs](https://github.com/abdulazeem8630/leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/abdulazeem8630/leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/abdulazeem8630/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -507,12 +508,14 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/abdulazeem8630/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0264-ugly-number-ii](https://github.com/abdulazeem8630/leetcode/tree/master/0264-ugly-number-ii) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/abdulazeem8630/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2336-smallest-number-in-infinite-set](https://github.com/abdulazeem8630/leetcode/tree/master/2336-smallest-number-in-infinite-set) |
 ## Design
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/abdulazeem8630/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/abdulazeem8630/leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0933-number-of-recent-calls](https://github.com/abdulazeem8630/leetcode/tree/master/0933-number-of-recent-calls) |
+| [2336-smallest-number-in-infinite-set](https://github.com/abdulazeem8630/leetcode/tree/master/2336-smallest-number-in-infinite-set) |
 ## Randomized
 |  |
 | ------- |
@@ -685,4 +688,8 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/abdulazeem8630/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Ordered Set
+|  |
+| ------- |
+| [2336-smallest-number-in-infinite-set](https://github.com/abdulazeem8630/leetcode/tree/master/2336-smallest-number-in-infinite-set) |
 <!---LeetCode Topics End-->
